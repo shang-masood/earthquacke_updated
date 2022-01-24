@@ -1,0 +1,10 @@
+.header {
+  background-color: rgb(34, 190, 190);
+  height: 50px;
+  align-content: center;
+}
+.header > a {
+  text-decoration: none;
+  color: aliceblue;
+  align-self: center;
+}
